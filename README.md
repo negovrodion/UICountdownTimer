@@ -8,7 +8,7 @@
 UI timer control, based on UIPickerView.
 
 ## Example
-[CountdownTimerControlExample](https://github.com/negovrodion/UICountdownTimerExample)
+[UICountdownTimerExample](https://github.com/negovrodion/UICountdownTimerExample)
 
 ## Installation
 
